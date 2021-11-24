@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 👋
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=MichalisTripolitsiotis&theme=default&show_icons=true&count_private=true)
 
 <!--
 **MichalisTripolitsiotis/MichalisTripolitsiotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
