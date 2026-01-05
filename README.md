@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 👋
 ***
-My name is Michalis Tripolitsiotis. I studied Computer Science at the University of Sheffield, International Faculty. I am currently working as a Full Stack web developer. <br>
+My name is Michalis Tripolitsiotis. I studied Computer Science at the University of Sheffield. I am currently working as a Full Stack web developer. <br>
 <br>
 You can find me here: <br>
  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/michalis-tripolitsiotis-27b9a0ab)
@@ -8,10 +8,11 @@ You can find me here: <br>
 
 ### 📈 GitHub Statistics 
 ***
-![Github stats](https://github-readme-stats.vercel.app/api?username=MichalisTripolitsiotis&theme=default&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=MichalisTripolitsiotis&theme=default&show_icons=true&count_private=false)
 
 ### 💻 Languages I am working with
 ***
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalisTripolitsiotis)
 
 <!--
